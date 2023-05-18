@@ -1,0 +1,42 @@
+Started GET "/" for ::1 at 2023-05-18 13:57:35 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.9ms | Allocations: 773)
+Completed 200 OK in 43ms (Views: 17.5ms | ActiveRecord: 0.0ms | Allocations: 6752)
+
+
+Started GET "/" for ::1 at 2023-05-18 14:00:27 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 661)
+Completed 200 OK in 15ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 5398)
+
+
+Started GET "/hello" for ::1 at 2023-05-18 14:01:38 +0530
+  
+ActionController::RoutingError (uninitialized constant HelloController):
+  
+Started GET "/hello" for ::1 at 2023-05-18 14:01:46 +0530
+  
+ActionController::RoutingError (uninitialized constant HelloController):
+  
+Started GET "/hello" for ::1 at 2023-05-18 14:04:50 +0530
+  
+NameError (uninitialized constant ApplicationController
+Did you mean?  ApplicationRecord):
+  
+app/controllers/hello_controller.rb:1:in `<main>'
+Started GET "/hello" for ::1 at 2023-05-18 14:08:04 +0530
+Processing by ApplicationController#hello as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 6)
+Completed 200 OK in 11ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 3939)
+
+
+Started GET "/" for ::1 at 2023-05-18 14:08:08 +0530
+Processing by ApplicationController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms | Allocations: 176)
+
+
