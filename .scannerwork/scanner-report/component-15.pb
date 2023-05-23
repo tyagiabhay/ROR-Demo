@@ -1,1 +1,1 @@
- 2rubyXhr)app/channels/application_cable/channel.rb
+ 2rubyXhr)app/channels/application_cable/channel.rb

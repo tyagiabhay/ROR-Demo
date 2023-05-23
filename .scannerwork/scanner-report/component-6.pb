@@ -1,1 +1,1 @@
- 2jsXhrapp/javascript/application.js
+ 2jsXhrapp/javascript/application.js

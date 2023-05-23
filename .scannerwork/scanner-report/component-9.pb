@@ -1,1 +1,1 @@
-	 2jsXhr.app/javascript/controllers/hello_controller.js
+	 2jsXhr.app/javascript/controllers/hello_controller.js

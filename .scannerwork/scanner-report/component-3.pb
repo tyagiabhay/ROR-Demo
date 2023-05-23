@@ -1,1 +1,1 @@
- 2rubyXhr!app/helpers/application_helper.rb
+ 2rubyXhr!app/helpers/application_helper.rb

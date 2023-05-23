@@ -1,2 +1,2 @@
  2jsX
-hr)app/javascript/controllers/application.js
+hr)app/javascript/controllers/application.js

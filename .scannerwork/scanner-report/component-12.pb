@@ -1,1 +1,1 @@
- 2webXhr&app/views/layouts/application.html.erb
+ 2webXhr&app/views/layouts/application.html.erb

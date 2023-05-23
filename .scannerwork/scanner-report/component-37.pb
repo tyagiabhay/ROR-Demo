@@ -1,1 +1,1 @@
-% 2rubyXhrdb/schema.rb
+% 2rubyXhrdb/schema.rb

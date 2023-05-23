@@ -1,1 +1,1 @@
- 2rubyXhr)app/controllers/application_controller.rb
+ 2rubyXhr)app/controllers/application_controller.rb

@@ -1,1 +1,1 @@
- 2webXhr!app/views/layouts/mailer.html.erb
+ 2webXhr!app/views/layouts/mailer.html.erb

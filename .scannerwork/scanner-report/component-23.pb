@@ -1,1 +1,1 @@
- 2rubyXhr"config/initializers/inflections.rb
+ 2rubyXhr"config/initializers/inflections.rb

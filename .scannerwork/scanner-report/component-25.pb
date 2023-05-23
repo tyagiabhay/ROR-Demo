@@ -1,1 +1,1 @@
- 2rubyXhr)config/initializers/permissions_policy.rb
+ 2rubyXhr)config/initializers/permissions_policy.rb
