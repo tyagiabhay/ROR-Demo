@@ -1,0 +1,1 @@
+ 2rubyXhr,app/channels/application_cable/connection.rb

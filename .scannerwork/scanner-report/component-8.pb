@@ -1,0 +1,1 @@
+ 2jsXhr#app/javascript/controllers/index.js

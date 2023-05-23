@@ -1,0 +1,1 @@
+ 2rubyXhr.config/initializers/content_security_policy.rb

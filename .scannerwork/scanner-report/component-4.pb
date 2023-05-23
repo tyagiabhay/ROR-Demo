@@ -1,0 +1,1 @@
+ 2rubyXhr!app/mailers/application_mailer.rb
