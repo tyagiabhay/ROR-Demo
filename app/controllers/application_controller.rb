@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   end
 
   def hello
-    render plain: 'Hello, World!!!!!New-Version'
+    render plain: 'Hello, World!!!!!New-Version 24-may-2023'
   end
 end
 
